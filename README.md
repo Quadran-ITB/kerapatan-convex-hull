@@ -5,7 +5,9 @@ dependencies:
   - python=3.9
   - geopandas
   - ipykernel
-  - geopy
   - sqlalchemy
-  - psycopg2
   - geoalchemy2
+  - folium
+  - scipy
+  - numpy
+  - pandas
