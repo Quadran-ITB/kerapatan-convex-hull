@@ -13,15 +13,15 @@ dependencies:
   - pandas
 
 ## KERAPATAN WILAYAH PELAYANAN GI
-- Metode
-- Voronoi
-- Convex Hull 
+- [x] Metode
+  - [x] Voronoi
+  - [x] Convex Hull 
 - Output Kalkulasi
-- Area pelayanan GI (m2)
-- Total titik beban
-- Total rekap titik beban (MW/MVA)
-- Kerapatan GI
-  - Beban (MW/MVA)/ m2
-  - Kapasitas Trafo GD (KVA)/ m2
-  - Jumlah Pelanggan / m2
-  - Kapasitas Tersambung Pelanggan (kVA) / m2
+  - [] Area pelayanan GI (m2)
+  - [x] Total titik beban
+  - [] Total rekap titik beban (MW/MVA)
+  - [] Kerapatan GI
+    - [] Beban (MW/MVA)/ m2
+    - [] Kapasitas Trafo GD (KVA)/ m2
+    - [] Jumlah Pelanggan / m2
+    - [] Kapasitas Tersambung Pelanggan (kVA) / m2
