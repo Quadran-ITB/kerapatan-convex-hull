@@ -16,7 +16,9 @@ dependencies:
 - [x] Metode
   - [x] Voronoi
   - [x] Convex Hull 
-- Output Kalkulasi
+  - [x] K-means
+  - [x] centroid analysis
+- [ ] Output Kalkulasi
   - [ ] Area pelayanan GI (m2)
   - [x] Total titik beban
   - [ ] Total rekap titik beban (MW/MVA)
