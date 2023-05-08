@@ -30,7 +30,7 @@ dependencies:
 
 ## Milestone
 - [ ] memberi rekomendasi GD baru nyambung ke GI mana
-- [ ] kerapatan paling bagus berapa?
+- [ ] kerapatan paling bagus berapa? (terkait dengan kapasitas daya GI)
 - [ ] penentuan GI berdasarkan peningkatan GD
   - [ ] lokasi dimana
   - [ ] luas area GI baru
