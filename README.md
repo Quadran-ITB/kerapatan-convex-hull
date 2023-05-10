@@ -8,7 +8,7 @@ Pemetaan kerapatan Gardu Induk dengan metode Convex Hull
   - [x] K-means
   - [x] centroid analysis
 - [ ] Output Kalkulasi
-  - [ ] Area pelayanan GI (m2)
+  - [x] Area pelayanan GI (m2)
   - [x] Total titik beban
   - [ ] Total rekap titik beban (MW/MVA)
   - [ ] Kerapatan GI
