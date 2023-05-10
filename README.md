@@ -27,7 +27,3 @@ Pemetaan kerapatan Gardu Induk dengan metode Convex Hull
   - [ ] GD mana nyambung ke GI baru atau lama
   - [ ] GI baru tidak terlalu jauh dari 150 kV line
   - [ ] letak GI berdasarkan cost dan jarak, (perlu disiapkan variable pengali untuk cost)
-<<<<<<< HEAD
-
-=======
->>>>>>> bdd9ddf7dd0fb49ae169470718ab2acad61abad0
