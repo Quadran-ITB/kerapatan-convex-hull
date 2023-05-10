@@ -38,3 +38,4 @@ dependencies:
   - [ ] GD mana nyambung ke GI baru atau lama
   - [ ] GI baru tidak terlalu jauh dari 150 kV line
   - [ ] letak GI berdasarkan cost dan jarak, (perlu disiapkan variable pengali untuk cost)
+
