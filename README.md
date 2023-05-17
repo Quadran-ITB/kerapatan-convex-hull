@@ -12,7 +12,7 @@ Pemetaan kerapatan Gardu Induk dengan metode Convex Hull
   - [x] Total titik beban
   - [x] Total rekap titik beban (MW/MVA)
   - [ ] Kerapatan GI
-    - [ ] Beban (MW/MVA)/ m2
+    - [x] Beban (MW/MVA)/ m2
     - [ ] Kapasitas Trafo GD (KVA)/ m2
     - [ ] Jumlah Pelanggan / m2
     - [ ] Kapasitas Tersambung Pelanggan (kVA) / m2
