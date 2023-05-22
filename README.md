@@ -9,10 +9,12 @@ Pemetaan kerapatan Gardu Induk dengan metode Convex Hull
   - [x] centroid analysis
 - [ ] Output Kalkulasi
   - [x] Area pelayanan GI (m2)
+    - [x] eksisting
+    - [x] update
   - [x] Total titik beban
   - [x] Total rekap titik beban (MW/MVA)
-  - [ ] Kerapatan GI
-    - [x] Beban (MW/MVA)/ m2
+  - [ ] Menghitung Kerapatan GI berdasarkan
+    - [ ] Beban (MW/MVA)/ m2
     - [ ] Kapasitas Trafo GD (KVA)/ m2
     - [ ] Jumlah Pelanggan / m2
     - [ ] Kapasitas Tersambung Pelanggan (kVA) / m2
@@ -21,7 +23,7 @@ Pemetaan kerapatan Gardu Induk dengan metode Convex Hull
 - [ ] memberi rekomendasi GD baru nyambung ke GI mana
 - [ ] kerapatan paling bagus berapa? (terkait dengan kapasitas daya GI)
 - [ ] penentuan GI berdasarkan peningkatan GD
-  - [ ] lokasi dimana
+  - [ ] lokasi dimana, jarak dengan GI lama
   - [ ] luas area GI baru
   - [ ] berapa jarak ke GI lama
   - [ ] GD mana nyambung ke GI baru atau lama
