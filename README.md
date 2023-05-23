@@ -1,6 +1,10 @@
 # kerapatan-convex-hull
 Pemetaan kerapatan Gardu Induk dengan metode Convex Hull
 
+## API yang dibutuhkan
+- [ ] get-gardu: mendapatkan data baru gardu distribsui dalam bentuk json
+- [ ] get-gardu-induk: mendapatkan data baru gardu induk dalam bentuk json
+
 ## KERAPATAN WILAYAH PELAYANAN GI
 - [x] Metode
   - [x] Voronoi
@@ -12,6 +16,7 @@ Pemetaan kerapatan Gardu Induk dengan metode Convex Hull
     - [x] eksisting
     - [x] update
   - [x] Total titik beban
+    - [ ] didapat dari penjumlahan beban semua GD untuk suatu GI
   - [x] Total rekap titik beban (MW/MVA)
   - [ ] Menghitung Kerapatan GI berdasarkan
     - [ ] Beban (MW/MVA)/ m2
@@ -20,7 +25,11 @@ Pemetaan kerapatan Gardu Induk dengan metode Convex Hull
     - [ ] Kapasitas Tersambung Pelanggan (kVA) / m2
 
 ## Milestone
-- [ ] memberi rekomendasi GD baru nyambung ke GI mana
+- [ ] memberi rekomendasi peletakan GI baru dan kluster baru jika total beban melebihi kapasitas GI 
+  - [ ] tidak ada yang overlap, tetap perlu diperhatikan apakah GI masih dapat menampung atau tidak, jika tidak perlu GI baru
+  - [ ] distribusi fairness 
+  - [ ] dirumusin math nya seperti konsep mesh network
+  - [ ] GD baru nyambung ke GI mana
 - [ ] kerapatan paling bagus berapa? (terkait dengan kapasitas daya GI)
 - [ ] penentuan GI berdasarkan peningkatan GD
   - [ ] lokasi dimana, jarak dengan GI lama
