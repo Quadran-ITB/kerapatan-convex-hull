@@ -1,1 +1,4 @@
-bts_area
+bts_area/
+geo_env/
+.vscode/
+.ipynb_checkpoints/
